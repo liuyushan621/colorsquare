@@ -1,5 +1,5 @@
 streamlit 
-openpose
+pyopenpose
 numpy
 PIL 
 time
