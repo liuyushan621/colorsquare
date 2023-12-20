@@ -109,4 +109,4 @@ while True:
 # Close the window after 5 seconds
 time.sleep(5)
 cap.release()
-cv2.destroyAllWindows()
+
